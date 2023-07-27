@@ -1,0 +1,12 @@
+{
+    "name": "Harry Potter and the Deathly Hallows-Part 2",
+    "description": "IMDb Movie Image",
+    "image": "https://ipfs.io/ipfs/QmWX8VHFESmax9Sjib1VD1CxPw82qrkHZrHpJYMjREJ6Ac/8.jfif",
+    "attributes": [
+        {
+            "trait_type": "Image",
+            "value": 8,
+            "max_value": 8
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Harry Potter and the Goblet of Fire",
+    "description": "IMDb Movie Image",
+    "image": "https://ipfs.io/ipfs/QmWX8VHFESmax9Sjib1VD1CxPw82qrkHZrHpJYMjREJ6Ac/4.jfif",
+    "attributes": [
+        {
+            "trait_type": "Image",
+            "value": 4,
+            "max_value": 8
+        }
+    ]
+}

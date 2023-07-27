@@ -1,0 +1,12 @@
+{
+    "name": "Harry Potter and the Chamber of Secrets",
+    "description": "IMDb Movie Image",
+    "image": "https://ipfs.io/ipfs/QmWX8VHFESmax9Sjib1VD1CxPw82qrkHZrHpJYMjREJ6Ac/2.jfif",
+    "attributes": [
+        {
+            "trait_type": "Image",
+            "value": 2,
+            "max_value": 8
+        }
+    ]
+}
